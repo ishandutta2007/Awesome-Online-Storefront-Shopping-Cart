@@ -137,7 +137,7 @@
     <!-- Terminal / Headless Icon -->
     <path d="M 28 32 L 34 37 L 28 42 M 37 42 H 44" fill="none" stroke="#10b981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     <text x="66" y="32" class="sub-text" fill="#94a3b8" font-size="12">ARCHITECTURES</text>
-    <text x="66" y="52" class="title-text" fill="#f8fafc" font-size="15">SaaS &bull; Headless &bull; OSS</text>
+    <text x="66" y="52" class="title-text" fill="#f8fafc" font-size="15">SaaS &#8226; Headless &#8226; OSS</text>
   </g>
 
   <g class="card-3" transform="translate(840, 230)">
