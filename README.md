@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Online-Storefront-Shopping-Cart/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Storefront-Shopping-Cart?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Storefront-Shopping-Cart/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Storefront-Shopping-Cart?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Storefront-Shopping-Cart/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Storefront-Shopping-Cart?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg" alt="License: CC0-1.0" /></a>
@@ -107,132 +107,132 @@ The table below is sorted in descending order by **Company Size (Revenue / Marke
 
 Self-hosted, modular, and developer-owned e-commerce engines offering full source code transparency, zero vendor lock-in, database ownership, and zero revenue-sharing transaction fees.
 
-### ⭐ Open-Source Ecosystem Ranked by Stars 🏆
+### ⭐ Open-Source Ecosystem Ranked by GitHub_Stars 🏆
 
-The open-source repository list below is sorted in descending order by **GitHub Stargazers Count** (verified directly via GitHub API). Each star badge links directly to the stargazers page of that repository.
+The open-source repository list below is sorted in descending order by **GitHub Stargazers Count** (verified directly via GitHub API). Each Stars_Badge links directly to the stargazers page of that repository.
 
-| 📦 Software | ⭐ GitHub Stars | 💻 Core Tech Stack | 🏗️ Primary Architecture | ⚖️ License | 🔗 Stargazers Link |
+| 📦 Software | ⭐ GitHub_Stars | 💻 Core Tech Stack | 🏗️ Primary Architecture | ⚖️ License | 🔗 Stargazers Link |
 |:---|:---:|:---|:---|:---:|:---:|
-| **[Medusa](#medusa)** | [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | TypeScript / Node.js / PostgreSQL | Headless / Composable / REST API | MIT | [Stargazers](https://github.com/medusajs/medusa/stargazers) |
-| **[Bagisto](#bagisto)** | [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | PHP / Laravel / Vue.js | Monolith + Headless REST & GraphQL | MIT | [Stargazers](https://github.com/bagisto/bagisto/stargazers) |
-| **[Saleor](#saleor)** | [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) | Python / Django / PostgreSQL | Headless / GraphQL API | BSD-3-Clause | [Stargazers](https://github.com/saleor/saleor/stargazers) |
-| **[Spree Commerce](#spree-commerce)** | [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) | Ruby on Rails / Turbo / PostgreSQL | Modular Headless / REST API | BSD-3-Clause | [Stargazers](https://github.com/spree/spree/stargazers) |
-| **[Reaction Commerce](#reaction-commerce)** | [![GitHub stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers) | Node.js / GraphQL / MongoDB / Docker | Headless / Microservices / Event-Driven | GPL-3.0 | [Stargazers](https://github.com/reactioncommerce/reaction/stargazers) |
-| **[Magento Open Source](#magento-open-source)** | [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers) | PHP / MySQL / Elasticsearch | Enterprise Monolith / REST & GraphQL | OSL-3.0 | [Stargazers](https://github.com/magento/magento2/stargazers) |
-| **[WooCommerce](#woocommerce)** | [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | PHP / WordPress / MySQL | CMS-Integrated Plugin / REST API | GPL-3.0 | [Stargazers](https://github.com/woocommerce/woocommerce/stargazers) |
-| **[PrestaShop](#prestashop)** | [![GitHub stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers) | PHP / Symfony / MySQL | Monolith + Module Ecosystem | OSL-3.0 | [Stargazers](https://github.com/PrestaShop/PrestaShop/stargazers) |
-| **[Aimeos](#aimeos)** | [![GitHub stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers) | PHP / Laravel / Multi-DB | Ultra-Fast Framework / JSON REST & GraphQL | LGPL-3.0 | [Stargazers](https://github.com/aimeos/aimeos-laravel/stargazers) |
-| **[Vendure](#vendure)** | [![GitHub stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) | TypeScript / NestJS / GraphQL | Headless / Modern Micro-framework | MIT | [Stargazers](https://github.com/vendure-ecommerce/vendure/stargazers) |
-| **[Sylius](#sylius)** | [![GitHub stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers) | PHP / Symfony / API Platform | Tailored B2B/B2C / Unified REST | MIT | [Stargazers](https://github.com/Sylius/Sylius/stargazers) |
-| **[OpenCart](#opencart)** | [![GitHub stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers) | PHP / MySQL | Lightweight MVC Monolith | GPL-3.0 | [Stargazers](https://github.com/opencart/opencart/stargazers) |
-| **[Solidus](#solidus)** | [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) | Ruby on Rails / PostgreSQL | High-Volume Customizable Engine | BSD-3-Clause | [Stargazers](https://github.com/solidusio/solidus/stargazers) |
-| **[Shopware 6](#shopware-6)** | [![GitHub stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers) | PHP / Symfony / Vue.js | API-First Headless + Admin Monolith | MIT | [Stargazers](https://github.com/shopware/shopware/stargazers) |
-| **[Shuup](#shuup)** | [![GitHub stars](https://img.shields.io/github/stars/shuup/shuup?style=social&color=white)](https://github.com/shuup/shuup/stargazers) | Python / Django / PostgreSQL | Multi-Vendor Marketplace & B2B | OSL-3.0 | [Stargazers](https://github.com/shuup/shuup/stargazers) |
+| **[Medusa](#medusa)** | [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | TypeScript / Node.js / PostgreSQL | Headless / Composable / REST API | MIT | [Stargazers](https://github.com/medusajs/medusa/stargazers) |
+| **[Bagisto](#bagisto)** | [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | PHP / Laravel / Vue.js | Monolith + Headless REST & GraphQL | MIT | [Stargazers](https://github.com/bagisto/bagisto/stargazers) |
+| **[Saleor](#saleor)** | [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) | Python / Django / PostgreSQL | Headless / GraphQL API | BSD-3-Clause | [Stargazers](https://github.com/saleor/saleor/stargazers) |
+| **[Spree Commerce](#spree-commerce)** | [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) | Ruby on Rails / Turbo / PostgreSQL | Modular Headless / REST API | BSD-3-Clause | [Stargazers](https://github.com/spree/spree/stargazers) |
+| **[Reaction Commerce](#reaction-commerce)** | [![GitHub_Stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers) | Node.js / GraphQL / MongoDB / Docker | Headless / Microservices / Event-Driven | GPL-3.0 | [Stargazers](https://github.com/reactioncommerce/reaction/stargazers) |
+| **[Magento Open Source](#magento-open-source)** | [![GitHub_Stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers) | PHP / MySQL / Elasticsearch | Enterprise Monolith / REST & GraphQL | OSL-3.0 | [Stargazers](https://github.com/magento/magento2/stargazers) |
+| **[WooCommerce](#woocommerce)** | [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers) | PHP / WordPress / MySQL | CMS-Integrated Plugin / REST API | GPL-3.0 | [Stargazers](https://github.com/woocommerce/woocommerce/stargazers) |
+| **[PrestaShop](#prestashop)** | [![GitHub_Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers) | PHP / Symfony / MySQL | Monolith + Module Ecosystem | OSL-3.0 | [Stargazers](https://github.com/PrestaShop/PrestaShop/stargazers) |
+| **[Aimeos](#aimeos)** | [![GitHub_Stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers) | PHP / Laravel / Multi-DB | Ultra-Fast Framework / JSON REST & GraphQL | LGPL-3.0 | [Stargazers](https://github.com/aimeos/aimeos-laravel/stargazers) |
+| **[Vendure](#vendure)** | [![GitHub_Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) | TypeScript / NestJS / GraphQL | Headless / Modern Micro-framework | MIT | [Stargazers](https://github.com/vendure-ecommerce/vendure/stargazers) |
+| **[Sylius](#sylius)** | [![GitHub_Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers) | PHP / Symfony / API Platform | Tailored B2B/B2C / Unified REST | MIT | [Stargazers](https://github.com/Sylius/Sylius/stargazers) |
+| **[OpenCart](#opencart)** | [![GitHub_Stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers) | PHP / MySQL | Lightweight MVC Monolith | GPL-3.0 | [Stargazers](https://github.com/opencart/opencart/stargazers) |
+| **[Solidus](#solidus)** | [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers) | Ruby on Rails / PostgreSQL | High-Volume Customizable Engine | BSD-3-Clause | [Stargazers](https://github.com/solidusio/solidus/stargazers) |
+| **[Shopware 6](#shopware-6)** | [![GitHub_Stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers) | PHP / Symfony / Vue.js | API-First Headless + Admin Monolith | MIT | [Stargazers](https://github.com/shopware/shopware/stargazers) |
+| **[Shuup](#shuup)** | [![GitHub_Stars](https://img.shields.io/github/stars/shuup/shuup?style=social&color=white)](https://github.com/shuup/shuup/stargazers) | Python / Django / PostgreSQL | Multi-Vendor Marketplace & B2B | OSL-3.0 | [Stargazers](https://github.com/shuup/shuup/stargazers) |
 
 ---
 
 ### 🛠️ Framework Profiles 📌
 
 #### 🐙 Medusa
-- **Repository:** [medusajs/medusa](https://github.com/medusajs/medusa) | [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)
+- **Repository:** [medusajs/medusa](https://github.com/medusajs/medusa) | [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)
 - **Tech Stack:** TypeScript, Node.js, PostgreSQL, Redis
 - **License:** MIT
 - **Overview:** Known as the "open-source alternative to Shopify," Medusa delivers composable commerce modules (products, carts, orders, pricing, taxes, inventory) exposed through high-performance REST APIs and an open-source React administration panel.
 - **Best For:** Modern JavaScript and TypeScript engineering teams building bespoke frontend storefronts (Next.js, Remix, Astro) without licensing fees.
 
 #### 🛍️ Bagisto
-- **Repository:** [bagisto/bagisto](https://github.com/bagisto/bagisto) | [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)
+- **Repository:** [bagisto/bagisto](https://github.com/bagisto/bagisto) | [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)
 - **Tech Stack:** PHP 8.x, Laravel, Vue.js, MySQL
 - **License:** MIT
 - **Overview:** A complete e-commerce solution written on top of the Laravel framework and Vue.js. Bagisto provides multi-warehouse inventory, localized multi-currency support, native multi-vendor marketplace extensions, and built-in PWA storefront capabilities.
 - **Best For:** Laravel developers seeking a feature-rich, production-ready e-commerce platform that is easy to extend and maintain.
 
 #### ⚡ Saleor
-- **Repository:** [saleor/saleor](https://github.com/saleor/saleor) | [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)
+- **Repository:** [saleor/saleor](https://github.com/saleor/saleor) | [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)
 - **Tech Stack:** Python 3.x, Django, GraphQL, PostgreSQL
 - **License:** BSD-3-Clause
 - **Overview:** A GraphQL-native headless commerce engine engineered for ultra-fast, multi-channel international commerce. Saleor decouples backend logic cleanly, communicating with third-party systems via asynchronous webhooks and apps written in any programming language.
 - **Best For:** Teams committed to GraphQL APIs, Python/Django architectures, and high-performance headless multi-channel distribution.
 
 #### 💎 Spree Commerce
-- **Repository:** [spree/spree](https://github.com/spree/spree) | [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)
+- **Repository:** [spree/spree](https://github.com/spree/spree) | [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)
 - **Tech Stack:** Ruby on Rails, PostgreSQL, Turbo / Hotwire
 - **License:** BSD-3-Clause
 - **Overview:** A battle-tested e-commerce solution powering thousands of global storefronts. Spree provides a modular architecture with support for both traditional server-rendered Rails templates and headless REST API frontends.
 - **Best For:** Ruby on Rails organizations needing a proven, flexible, multi-currency commerce foundation.
 
 #### ⚛️ Reaction Commerce
-- **Repository:** [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) | [![GitHub stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers)
+- **Repository:** [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) | [![GitHub_Stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers)
 - **Tech Stack:** Node.js, GraphQL, MongoDB, Docker
 - **License:** GPL-3.0
 - **Overview:** An API-first, headless commerce suite crafted around microservices and event-driven architecture, designed to scale to millions of orders per day.
 - **Best For:** Enterprise Node.js development teams with microservice infrastructure requiring real-time event publishing.
 
 #### 🏛️ Magento Open Source
-- **Repository:** [magento/magento2](https://github.com/magento/magento2) | [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)
+- **Repository:** [magento/magento2](https://github.com/magento/magento2) | [![GitHub_Stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)
 - **Tech Stack:** PHP, MySQL, Elasticsearch / OpenSearch, Redis
 - **License:** OSL-3.0
 - **Overview:** The veteran powerhouse of enterprise self-hosted e-commerce. Features unmatched out-of-the-box catalog management, pricing rules, multi-site orchestration, and a massive global systems-integrator ecosystem.
 - **Best For:** Large enterprises with complex SKU hierarchies, dedicated DevOps teams, and requirements for deep ERP/WMS legacy integrations.
 
 #### 📦 WooCommerce
-- **Repository:** [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)
+- **Repository:** [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)
 - **Tech Stack:** PHP, WordPress, MySQL
 - **License:** GPL-3.0
 - **Overview:** The world's most widely deployed open-source e-commerce platform. Integrated seamlessly as a WordPress plugin, WooCommerce powers over 35% of all active online stores across the internet with thousands of community extensions.
 - **Best For:** Small to mid-market businesses and agencies already leveraging WordPress for content management.
 
 #### 🦁 PrestaShop
-- **Repository:** [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | [![GitHub stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)
+- **Repository:** [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | [![GitHub_Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)
 - **Tech Stack:** PHP, Symfony, MySQL
 - **License:** OSL-3.0
 - **Overview:** A comprehensive, mature European open-source storefront engine offering more than 600 built-in administrative features, international multi-currency tax handling, and an extensive marketplace of modules and templates.
 - **Best For:** European and cross-border merchants seeking an independent full-featured storefront with pre-configured legal and tax compliance.
 
 #### 🚀 Aimeos
-- **Repository:** [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) | [![GitHub stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers)
+- **Repository:** [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) | [![GitHub_Stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers)
 - **Tech Stack:** PHP 8+, Laravel / Symfony, Multi-Database
 - **License:** LGPL-3.0
 - **Overview:** Renowned for extreme performance (sub-20ms response times), Aimeos is an ultra-fast framework capable of scaling to over 1,000,000+ products on modest hardware while supporting complex B2B, B2C, and multi-vendor marketplace configurations.
 - **Best For:** High-volume inventory catalogs and developers prioritizing speed, resource efficiency, and deep Laravel integration.
 
 #### 🌲 Vendure
-- **Repository:** [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | [![GitHub stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers)
+- **Repository:** [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | [![GitHub_Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers)
 - **Tech Stack:** TypeScript, NestJS, GraphQL, TypeORM
 - **License:** MIT
 - **Overview:** A headless GraphQL framework designed around modern TypeScript ergonomics, modular architecture, and developer happiness. Vendure boasts a lightweight core with pluggable payment, shipping, and indexing extensions.
 - **Best For:** Teams that want clean GraphQL schemas, full TypeScript end-to-end safety, and a maintainable modular micro-framework.
 
 #### 🧩 Sylius
-- **Repository:** [Sylius/Sylius](https://github.com/Sylius/Sylius) | [![GitHub stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)
+- **Repository:** [Sylius/Sylius](https://github.com/Sylius/Sylius) | [![GitHub_Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)
 - **Tech Stack:** PHP 8.x, Symfony, Doctrine, API Platform
 - **License:** MIT
 - **Overview:** Built on top of Symfony and API Platform, Sylius emphasizes clean software architecture, automated testing (Behat / PhpSpec), and high customizability for complex B2B business models.
 - **Best For:** Professional PHP development agencies implementing complex tailored workflows that do not fit into rigid off-the-shelf platforms.
 
 #### 🛒 OpenCart
-- **Repository:** [opencart/opencart](https://github.com/opencart/opencart) | [![GitHub stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)
+- **Repository:** [opencart/opencart](https://github.com/opencart/opencart) | [![GitHub_Stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)
 - **Tech Stack:** PHP, MySQL
 - **License:** GPL-3.0
 - **Overview:** A lightweight, easy-to-install classic shopping cart platform with a simple admin interface and an active third-party module marketplace with thousands of extensions.
 - **Best For:** Merchants looking for an accessible, low-server-requirement PHP store without framework overhead.
 
 #### 🛡️ Solidus
-- **Repository:** [solidusio/solidus](https://github.com/solidusio/solidus) | [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)
+- **Repository:** [solidusio/solidus](https://github.com/solidusio/solidus) | [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)
 - **Tech Stack:** Ruby on Rails, PostgreSQL
 - **License:** BSD-3-Clause
 - **Overview:** A fork of Spree engineered for stability, high checkout reliability, and enterprise maintainability, favored by high-volume direct-to-consumer brands.
 - **Best For:** Scaling Rails engineering teams needing maximum control over their checkout pipeline and data structures.
 
 #### 🏪 Shopware 6
-- **Repository:** [shopware/shopware](https://github.com/shopware/shopware) | [![GitHub stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)
+- **Repository:** [shopware/shopware](https://github.com/shopware/shopware) | [![GitHub_Stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)
 - **Tech Stack:** PHP, Symfony, Vue.js, MySQL
 - **License:** MIT
 - **Overview:** A modern European commerce system featuring an API-first core and an intuitive Rule Builder and Flow Builder that allows non-technical administrators to automate complex business workflows.
 - **Best For:** Mid-market and enterprise brands demanding headless flexibility alongside visual drag-and-drop landing page design ("Shopping Experiences").
 
 #### 🌐 Shuup
-- **Repository:** [shuup/shuup](https://github.com/shuup/shuup) | [![GitHub stars](https://img.shields.io/github/stars/shuup/shuup?style=social&color=white)](https://github.com/shuup/shuup/stargazers)
+- **Repository:** [shuup/shuup](https://github.com/shuup/shuup) | [![GitHub_Stars](https://img.shields.io/github/stars/shuup/shuup?style=social&color=white)](https://github.com/shuup/shuup/stargazers)
 - **Tech Stack:** Python, Django, PostgreSQL
 - **License:** OSL-3.0
 - **Overview:** An open-source, customizable e-commerce framework tailored for complex multi-vendor marketplaces, B2B wholesale portals, and niche industry stores.
@@ -313,7 +313,7 @@ Contributions, feature suggestions, and updates to star rankings are welcome! If
 
 1. **Active Maintenance:** Project must have commits/releases within the past 12 months.
 2. **Open Source:** Must possess an OSI-approved open-source license.
-3. **Format:** Include project name, repository link, star badge, technology stack, and a concise summary of its strengths.
+3. **Format:** Include project name, repository link, Stars_Badge, technology stack, and a concise summary of its strengths.
 
 ---
 
